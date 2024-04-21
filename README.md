@@ -15,7 +15,7 @@
   <img aling="center" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
 </div>
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosouzaaa&show_icons=true&theme=tokyonight)   |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouzaaa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Azimjon GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosouzaaa&show_icons=true&theme=tokyonight)   |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouzaaa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 :-------------------------:|:-------------------------:
 
 <hr class="rounded" >
