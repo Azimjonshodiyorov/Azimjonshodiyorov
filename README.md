@@ -1,4 +1,4 @@
-### Hello I'm Azimjon, I'm a backend developer, and use C# on most of my projects.
+### Hello I'm Azimjon, I'm a FullStack developer, and use .Net & Angular on most of my projects.
 
 <hr class="rounded" >
 
